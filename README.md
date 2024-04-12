@@ -1,16 +1,15 @@
-### Hi there 👋
+### 欢迎来到我的主页❤❤
 
-<!--
-**Wangdingxuan/Wangdingxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自我介绍
+经济学在读博士生 | EMFP | 巨蟹座
 
-Here are some ideas to get you started:
+## 专业技能
+基础软件：LaTeX,Visio,Xmind
+专业软件：Eviews,SPSS,Stata,Python，Matlab
+绘图软件：Arcgis,Gephi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## B站教学视频
+我的B站个人空间 [小声最爱小姐姐](https://markdown.com.cn](https://space.bilibili.com/95659456)
+
+## 联系方式
+wdx9921@163.com
