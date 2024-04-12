@@ -14,5 +14,5 @@
 我的B站个人空间 [小声最爱小姐姐](https://markdown.com.cn](https://space.bilibili.com/95659456)
 
 ### 联系方式
-邮箱![00491C6E](https://github.com/Wangdingxuan/Wangdingxuan/assets/166780616/683309a7-af05-49e9-8a4c-1423af142a0b)：wdx9921@163.com    
+邮箱：wdx9921@163.com    
 github：
